@@ -1,7 +1,5 @@
 # Awesome Power Platform Resources
 
-![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
-
 This is a list of Tons of Free & Awesome Power Platform Resources.
 
 This is primarily for anyone looking to learn & create amazing no-code low-code apps using Microsoft Power Platform.
